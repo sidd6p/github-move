@@ -40,5 +40,5 @@ int main(){
         }
         cout << count << "\n";
     }
-    return 0;
+    return 0 ;
 }
